@@ -1,0 +1,3 @@
+1|Java OOP Assignment|Java|2026-09-20|HIGH|false
+2|Image Processing Report|Digital Image Processing|2026-09-24|MEDIUM|false
+3|IoT Case Study|Internet of Things|2026-09-28|LOW|false
